@@ -15,12 +15,12 @@ Victoria Moura (RM555474)
 Sistema de visão computacional para detecção automática de furacões em imagens e vídeos de satélite.
 
 📚 Bibliotecas Utilizadas
-Biblioteca	Versão	Utilização
-OpenCV (cv2)	≥ 4.5	Processamento de imagem, vídeo, HOG
-NumPy	≥ 1.19	Operações matriciais e cálculos
-scikit-learn	≥ 0.24	Classificadores ML (RandomForest, SVM, GradientBoosting)
-scikit-image	≥ 0.18	Feature LBP (Local Binary Pattern)
-pickle	-	Persistência do modelo treinado
+
+OpenCV (cv2)	
+NumPy	
+scikit-learn
+scikit-image
+pickle
 
 Instalação das dependências:
 pip install opencv-python numpy scikit-learn scikit-image
